@@ -1,4 +1,4 @@
-﻿#include "DxLib.h"
+﻿#include <DxLib.h>
 
 //ストップタイマー
 int time;
